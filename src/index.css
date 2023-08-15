@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* src/styles.css */
+@font-face {
+  font-family: "monteserrat";
+  src: url("./fonts/Monteserrat-Regular.otf") format("opentype");
+  /* Add additional formats if needed */
+  font-weight: normal;
+  font-style: normal;
+}
